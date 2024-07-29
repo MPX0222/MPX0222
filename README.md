@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/mpx0222/count.svg" />
 </p>
 
-<p align="center"> 
+<p align="right"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
 </p>
 
