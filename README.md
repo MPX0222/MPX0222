@@ -1,38 +1,23 @@
-<h1 align="center">Hi 👋, I'm Peixian MA</h1>
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸! 👋</h1>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mpx0222/count.svg" />
-</div>
+I'm Peixian MA! I am a M.Phil at the Hong Kong University of Science and Technology, Guangzhou (HKUSTGZ). My current research interest includes Large Language Models, Game Agents, Casual Reasoning and Broad Learning System.
 
-<div align="center" style="margin: 20px 0">
-  <a href="https://github.com/MPX0222">
-    <img src="https://img.shields.io/badge/GitHub-MPX0222-blue?logo=github" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Steam-MPX0222-white?logo=Steam" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Mail-mpx0222%40qq.com-red?logo=Gmail" />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Mail-mpx0222%40qq.com-red?logo=Gmail)](mailto:mpx0222@qq.com) [![GitHub](https://img.shields.io/badge/GitHub-MPX0222-blue?logo=github)](https://github.com/MPX0222) [![Steam](https://img.shields.io/badge/Steam-MPX0222-white?logo=Steam)]() ![](https://komarev.com/ghpvc/?username=mpx0222&color=green&style=flat)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
-</div>
+<div style="width: 50%; float: left">
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px">
-<div style="width: 48%">
+## 😎 About
 
-### About Me
-- 😄 Hi there, this is Peixian MA. I am a M.Phil at the Hong Kong University of Science and Technology, Guangzhou (HKUSTGZ).
-- 🔭 My research interest includes Large Language Models, Game Agents, Casual Reasoning, Broad Learning System, and other applications.
+🌏 Homepage: [https://mpx0222.github.io/](https://mpx0222.github.io/)
+
+📫 Email: mpx0222@qq.com
 
 </div>
-<div style="width: 48%">
 
-### Contact & More
-- 👯 I am open to collaboration, feel free to contact me via Email (👈)!
-- ⚡ Please check my [Homepage](https://mpx0222.github.io/) for my CV and latest update!
+<div style="width: 50%; float: right">
 
-</div>
+## 📊 Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
+
 </div>
