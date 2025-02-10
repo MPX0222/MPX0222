@@ -1,4 +1,4 @@
-# 𝓗𝓮𝓵𝓵𝓸! 👋 𝓘'𝓶 𝓟𝓮𝓲𝔁𝓲𝓪𝓷 𝓜a
+# 𝓗𝓮𝓵𝓵𝓸! 👋 𝓘'𝓶 𝓟𝓮𝓲𝔁𝓲𝓪𝓷 𝓜𝓪
 
 I am a M.Phil. student at the Hong Kong University of Science and Technology, Guangzhou (HKUSTGZ). My research interest includes AI for Database, LLM-based Agent System, Data Generation and Broad Learning System.
 
