@@ -3,9 +3,9 @@
 HKUST(GZ) M.Phil. in DSA. I am committed to exploring the application of simple and efficient artificial intelligence algorithms in various fields. My research interest comprises User-friendly Database Application (e.g., NL2SQL, NL2DSL, Chat2DS), Agent System, Large Language Models and Model Reasoning, Reinforcement Learning. I am also seeking for opportunities of collaboration on these topics. Feel free to contact me if you are interested in these topics. 
 
 
-## 😎 About
+## About Me
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
 
 🌏 Homepage: [https://mpx0222.github.io/](https://mpx0222.github.io/)
 
