@@ -5,7 +5,6 @@ HKUST(GZ) M.Phil. in DSA. I am committed to exploring the application of simple 
 
 ## About Me
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=mpx0222&show_icons=true&theme=tokyonight" />
 
 🌏 Homepage: [https://mpx0222.github.io/](https://mpx0222.github.io/)
 
