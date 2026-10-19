@@ -1,0 +1,52 @@
+
+      <svg
+        width="854"
+        height="360"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 360"
+      >
+        <style>
+      .text {   font-size: 56px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 200;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#02040a"/><stop offset="100%" stop-color="#10192e"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 180) scale(1, 1) translate(-427, -180)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 280Q 213.5 320 427 290T 854 315L 854 0 Z;M0 0L 0 305Q 213.5 320 427 300T 854 290L 854 0 Z;M0 0L 0 325Q 213.5 295 427 325T 854 290L 854 0 Z;M0 0L 0 280Q 213.5 320 427 290T 854 315L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 295Q 213.5 340 427 310T 854 320L 854 0 Z;M0 0L 0 310Q 213.5 280 427 280T 854 300L 854 0 Z;M0 0L 0 305Q 213.5 285 427 310T 854 325L 854 0 Z;M0 0L 0 295Q 213.5 340 427 310T 854 320L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+        <text text-anchor="start" dominant-baseline="middle" x="57" y="72" class="text" fill="#ffffff">Peixian Ma</text>
+        <text text-anchor="start" dominant-baseline="middle" x="59" y="136" class="desc" fill="#d5deea">Researcher | Paradoox AI Research</text>
+        <text text-anchor="start" dominant-baseline="middle" x="59" y="176" class="desc" fill="#d5deea">M.Phil. | HKUST(GZ), Data Science and Analytics</text>
+        <text text-anchor="start" dominant-baseline="middle" x="59" y="216" class="desc" fill="#d5deea">Email: pma929@connect.hkust-gz.edu.cn / mpx0222@paradoox.ai</text>
+  
+      </svg>
+    

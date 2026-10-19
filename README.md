@@ -1,4 +1,6 @@
-# 𝓗𝓮𝓵𝓵𝓸! 👋 𝓘'𝓶 𝓟𝓮𝓲𝔁𝓲𝓪𝓷 𝓜𝓪
+<p align="center">
+  <img width="100%" alt="Peixian Ma, Researcher at Paradoox AI Research, M.Phil. at HKUST(GZ)" src="assets/banner.svg" />
+</p>
 
 I am committed to exploring the application of simple and efficient artificial intelligence algorithms in various fields. My research interest comprises:
 - AI for Database (e.g., Natural Language to SQL, ChatBI)
@@ -13,8 +15,6 @@ Feel free to contact me if you are interested in these topics.
 
 
 🌏 Homepage: [https://mpx0222.github.io/](https://mpx0222.github.io/)
-
-📫 Contact Me: pma929[at]connect.hkust-gz.edu.cn / mpx0222[at]paradoox.ai 
 
 [![GitHub](https://img.shields.io/badge/GitHub-MPX0222-blue?logo=github&style=flat-square)](https://github.com/MPX0222) ![](https://komarev.com/ghpvc/?username=mpx0222&color=green&style=flat-square)
 
