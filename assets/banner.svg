@@ -1,11 +1,11 @@
 
       <svg
         width="854"
-        height="250"
+        height="237"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
         style="z-index:1;position:relative"
-        viewBox="0 0 854 250"
+        viewBox="0 0 854 237"
       >
         <style>
       .text {   font-size: 42px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 15px;   font-weight: 400;   font-stretch: normal;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
@@ -17,7 +17,7 @@
               </linearGradient>
             </defs>
         
-      <g transform="translate(427, 125) scale(1, 1) translate(-427, -125)">
+      <g transform="translate(427, 131) scale(1, 1) translate(-427, -131)">
         <path d="" fill="url(#linear)" opacity="0.4" >
           <animate
               attributeName="d"
@@ -27,7 +27,7 @@
               calcmod="spline"
               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
               begin="0s"
-              values="M0 0L 0 170Q 213.5 210 427 180T 854 205L 854 0 Z;M0 0L 0 195Q 213.5 210 427 190T 854 180L 854 0 Z;M0 0L 0 215Q 213.5 185 427 215T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 210 427 180T 854 205L 854 0 Z">
+              values="M0 0L 0 182Q 213.5 222 427 192T 854 217L 854 0 Z;M0 0L 0 207Q 213.5 222 427 202T 854 192L 854 0 Z;M0 0L 0 227Q 213.5 197 427 227T 854 192L 854 0 Z;M0 0L 0 182Q 213.5 222 427 192T 854 217L 854 0 Z">
           </animate>
         </path>
         <path d="" fill="url(#linear)" opacity="0.4" >
@@ -39,14 +39,14 @@
             calcmod="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="-10s"
-            values="M0 0L 0 185Q 213.5 230 427 200T 854 210L 854 0 Z;M0 0L 0 200Q 213.5 170 427 170T 854 190L 854 0 Z;M0 0L 0 195Q 213.5 175 427 200T 854 215L 854 0 Z;M0 0L 0 185Q 213.5 230 427 200T 854 210L 854 0 Z">
+            values="M0 0L 0 197Q 213.5 242 427 212T 854 222L 854 0 Z;M0 0L 0 212Q 213.5 182 427 182T 854 202L 854 0 Z;M0 0L 0 207Q 213.5 187 427 212T 854 227L 854 0 Z;M0 0L 0 197Q 213.5 242 427 212T 854 222L 854 0 Z">
           </animate>
         </path>
       </g>
-        <text text-anchor="start" dominant-baseline="middle" x="48" y="46" class="text" fill="#ffffff">Peixian Ma</text>
-        <text text-anchor="start" dominant-baseline="middle" x="48" y="96" class="desc" fill="#d5deea">Researcher | Paradoox AI Research</text>
-        <text text-anchor="start" dominant-baseline="middle" x="48" y="122" class="desc" fill="#d5deea">M.Phil. | HKUST(GZ), Data Science and Analytics</text>
-        <text text-anchor="start" dominant-baseline="middle" x="48" y="148" class="desc" fill="#d5deea">Email: pma929@connect.hkust-gz.edu.cn / mpx0222@paradoox.ai</text>
+        <text text-anchor="start" dominant-baseline="middle" x="48" y="58" class="text" fill="#ffffff">Peixian Ma</text>
+        <text text-anchor="start" dominant-baseline="middle" x="48" y="108" class="desc" fill="#d5deea">Researcher | Paradoox AI Research</text>
+        <text text-anchor="start" dominant-baseline="middle" x="48" y="134" class="desc" fill="#d5deea">M.Phil. | HKUST(GZ), Data Science and Analytics</text>
+        <text text-anchor="start" dominant-baseline="middle" x="48" y="160" class="desc" fill="#d5deea">Email: pma929@connect.hkust-gz.edu.cn / mpx0222@paradoox.ai</text>
   
       </svg>
     
