@@ -10,6 +10,8 @@
   <a href="https://mpx0222.github.io/files/cv/CV2026_PeixianMa_EN.pdf"><img alt="Resume" src="https://img.shields.io/badge/-Resume-2E5A8C?style=for-the-badge&labelColor=09142F&logoColor=E8EAED&logo=googledocs" /></a>
 </div>
 
+<br>
+
 I am committed to exploring the application of simple and efficient artificial intelligence algorithms in various fields. My research interest comprises:
 - AI for Database (e.g., Natural Language to SQL, ChatBI)
 - AI for Finance (e.g., Evalution of Financial LLMs, Next-Generation Agentic Finance)
